@@ -1,0 +1,46 @@
+@charset "utf-8";
+.container{
+	max-width: 1024px;
+	min-width: 960px;	
+	margin: auto;
+	font-family: sans-serif;
+}
+
+.blackbar{
+	background-color:#000000;
+	color:#FFFFFF;
+}
+
+body{
+	max-width: 1024px;
+	min-width: 960px;	
+	margin: auto;
+	margin-top: 70px;
+}
+
+h5{
+    font-size: 1em;
+	line-height: 1.7;
+}
+
+.intro{
+	background: #1D976C; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left top, #1D976C, #93F9B9); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(bottom right, #1D976C, #93F9B9); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(bottom right, #1D976C, #93F9B9); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to bottom right, #1D976C, #93F9B9); /* Standard syntax */
+}
+
+img{
+	display: block;
+    margin: auto;
+}
+
+
+.video-section{
+	margin-top: 200px;
+}
+
+.video{
+	padding: 10px;
+}

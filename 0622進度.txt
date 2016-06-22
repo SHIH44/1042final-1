@@ -1,0 +1,13 @@
+檔案:
+十四族群(也就是首頁)index.html
+各個族群介紹abo_族群名.html
+多位音樂人頁面singer.html
+css資料夾放所有css(homepage.css是給首頁,group.css是給各個族群介紹頁面,singer.css是給多位音樂人頁面)
+singer資料夾裡面放各族音樂人的介紹頁面(裡面包含所有檔案共用的template.css)
+audio>各族>放族群頁面介紹所需的mp3音檔
+img>各族>放各族首頁及介紹頁面所需的圖檔
+
+1.首頁hover部分未完成,所以多位音樂人介面singer.html也還沒好
+2.族群介紹:共用group.css檔案,需要把要放入的圖檔檔名改為英文,banner及按鈕和border顏色改為和首頁的族群代表色一樣的顏色,置換內容進去(目前abo_XX.html除了賽德克族之外其他都是空的)
+需要的話要改圖片的位置大小格式(如果不會太長的話直接在html檔案裡改和增加script就好)
+3.音樂人的介紹,template.css可以照著首頁及族介紹的樣子去修,它的照片目前都是用網址,影片都是用youtube的嵌入
